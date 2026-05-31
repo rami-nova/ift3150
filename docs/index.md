@@ -14,7 +14,7 @@ title: Vue d'ensemble du projet
 
 !!! info "Informations générales"
     **Session**: Été 2026  
-    **Étudiant**: Amir Hannache - 20060308
+    **Étudiant**: Amir Hannache - 20060308  
     **Sujet**: Collecte de données météorologiques  
     **Superviseur**: Fabian Bastin  
 
