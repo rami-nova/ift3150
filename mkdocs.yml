@@ -1,7 +1,7 @@
-site_name: Site de suivi IFT3150
-site_description: Template de site web pour le cours IFT3150
-site_author: Louis-Edouard Lafontant
-site_url: https://ift3150-template.github.io
+site_name: IFT3150 — Prévision de demande électrique (Herbie)
+site_description: Site de suivi — Amir Hannache (20060308)
+site_author: Amir Hannache
+site_url: https://amir-hannache.github.io/ift3150-projet
 
 theme:
   name: material
